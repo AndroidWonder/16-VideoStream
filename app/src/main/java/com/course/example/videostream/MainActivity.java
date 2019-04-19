@@ -15,8 +15,8 @@ public class MainActivity extends AppCompatActivity {
     private VideoView videoview;
 
     // Insert your Video URL
-    //String VideoURL = "http://www.androidbegin.com/tutorial/AndroidCommercial.3gp";
-    String VideoURL = "https://archive.org/download/ksnn_compilation_master_the_internet/ksnn_compilation_master_the_internet_512kb.mp4";
+    String VideoURL = "https://www.radiantmediaplayer.com/media/bbb-360p.mp4";
+    //String VideoURL = "https://archive.org/download/ksnn_compilation_master_the_internet/ksnn_compilation_master_the_internet_512kb.mp4";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
