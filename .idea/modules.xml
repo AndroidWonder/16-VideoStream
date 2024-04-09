@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/16-VideoStream.iml" filepath="$PROJECT_DIR$/16-VideoStream.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/16-VideoStream.iml" filepath="$PROJECT_DIR$/.idea/modules/16-VideoStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/16-VideoStream.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/16-VideoStream.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/16-VideoStream.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/16-VideoStream.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/16-VideoStream.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/16-VideoStream.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/16-VideoStream.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/16-VideoStream.app.unitTest.iml" />
     </modules>
   </component>
 </project>
